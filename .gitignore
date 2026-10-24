@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.db
+*.db-wal
+*.db-shm
+APP_LIMITER_PROJECT_PLAN.md
+logs/
+.env
